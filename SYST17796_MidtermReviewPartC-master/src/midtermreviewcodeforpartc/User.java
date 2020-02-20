@@ -12,8 +12,8 @@ package midtermreviewcodeforpartc;
  */
 public class User 
 {
-    private String name;
-    private String password;
+    protected String name;
+    protected String password;
     
     /**
      * a constructor that takes in the user's name and password
